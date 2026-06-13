@@ -1,4 +1,3 @@
-# VSRWT.github.io
 # FEA-Hand-Book
 
 An interactive, single-page reference document for Finite Element Analysis workflows in ANSYS Workbench — built entirely with vanilla HTML, CSS, and JavaScript.
